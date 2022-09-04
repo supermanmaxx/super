@@ -1,5 +1,5 @@
 name: 'python action'
-on: push
+on:
 jobs:
   bot:
     runs-on: ubuntu-latest
