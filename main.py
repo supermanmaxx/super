@@ -151,10 +151,6 @@ def send_message(to_user, access_token, city_name, weather, max_temperature, min
             "note_ch": {
                 "value": note_ch,
                 "color": get_color()
-            },
-            "text1": {
-                "value": text1,
-                "color": get_color()
             }
         }
     }
